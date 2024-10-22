@@ -1,0 +1,4 @@
+{"name":"gihan","email":"gihan@gmail.com","password":"$2a$10$vkTccwpLPA/jPHkxaKSOluyo5sTHFUfj/I3ULnbn0n5z0hdQF75x.","role":"admin","2faEnable":false,"2faSecret":null,"_id":"2WFUcCNmN8ab4G8N"}
+{"name":"pathum","email":"pathum@gmail.com","password":"$2a$10$jbTb/V.yXwSaLIDH8IC9peBiSoSrVtl5kBpSP36w8ZLD2NXRpRjYG","role":"member","2faEnable":false,"2faSecret":null,"_id":"ASEViUMPnsJQBOcy"}
+{"name":"john doe","email":"john@gmail.com","password":"$2a$10$bWLSoq8FlEmKlTDSolxXQ.hG8n45UkfGWCBcdok3LRC24IqFV7a7e","role":"moderator","2faEnable":false,"2faSecret":null,"_id":"GWS83sKNKmK3THBW"}
+{"name":"mathew","email":"mathew@gmail.com","password":"$2a$10$zpvlYq9j6k95bYYzrht6c.Dkvk8vHEP2X/RZ5uMK1tPied0vJ0s.S","role":"member","2faEnable":false,"2faSecret":null,"_id":"YfAi7yqIRLlDuEvH"}

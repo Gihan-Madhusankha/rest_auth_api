@@ -1,0 +1,33 @@
+# Ignore node_modules folder (common in JavaScript projects)
+node_modules/
+
+# Ignore environment variables and secret files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore temporary files from Mac OS
+.DS_Store
+
+# Ignore build files and directories
+/dist/
+/build/
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore IDE settings (example for VSCode and IntelliJ IDEA)
+.vscode/
+.idea/
+
+# Ignore specific file type
+*.tmp
+*.swp
+
+# Ignore any file starting with 'debug' (debug.log, debug.txt, etc.)
+debug*
+
+# Ignore package-lock.json (if you want, though it's usually committed)
+package-lock.json
